@@ -18,3 +18,5 @@ Issue a pull request
 
 ## step 6:
 Merge pull request if satisified with new code
+
+### That's all it takes to backup your code!
